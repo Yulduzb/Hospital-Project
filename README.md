@@ -8,3 +8,7 @@
 - CSS
 - JavaScript
 - SCSS
+
+## Live Preview
+
+You can preview the website by visiting the following link: [Hospital Project Live Preview](https://yulduzb.github.io/Hospital-Project/)
